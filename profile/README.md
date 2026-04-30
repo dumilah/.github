@@ -2,4 +2,4 @@
 
 The prequel of DUMILAH was a series of research talks (the so-called [*Fakultas Ilmu Budaya* [FIB] *DigiTalk*](https://www.cirhss.org/fib-digitalk/)). 
 
-Upon its formal [establishment on 23 April 2026](https://www.youtube.com/live/uragTs0bxZo?si=If_86TukxoVRCWG8&t=3637), DUMILAH is supported by a registry of research outcomes on [Zenodo](https://zenodo.org/communities/dumilah-fib-unud/records?q=&l=list&p=1&s=10) (see the [Curation policy](https://zenodo.org/communities/dumilah-fib-unud/curation-policy) before submitting).
+Upon its formal [establishment on 23 April 2026](https://www.youtube.com/live/uragTs0bxZo?si=If_86TukxoVRCWG8&t=3637), DUMILAH is supported with a registry of research outcomes on [Zenodo](https://zenodo.org/communities/dumilah-fib-unud/records?q=&l=list&p=1&s=10) (see the [Curation policy](https://zenodo.org/communities/dumilah-fib-unud/curation-policy) in Indonesian and English).
